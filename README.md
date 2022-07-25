@@ -9,7 +9,7 @@
 <div>
 <h2 align="left">Some personal stuffs</h2>
 <ul>
-<li> 📚 Currently studying HTML and CSS on <a href="https://freecodecamp.org" style="text-decoration: none; color: white">FreeCode Camp</a>;</li>
+<li> 📚 Currently studying HTML, CSS and JS on <a href="https://freecodecamp.org" style="text-decoration: none; color: white">FreeCode Camp</a>;</li>
 <li> 🖥 Undergraduating on Computational Engineering; </li> 
 <li> 🇧🇷 Born and living on Brazil;</li>
 <li> 🚀 Passionate about Space and Tech;</li>
@@ -18,6 +18,9 @@
  
 <div align="center">
 <h2>Language and Tools</h2>
+<a href="https://pt-br.reactjs.org/" rel="nofollow">
+    <img height="35" src="https://camo.githubusercontent.com/268ac512e333b69600eb9773a8f80b7a251f4d6149642a50a551d4798183d621/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656163742d3230323332413f7374796c653d666f722d7468652d6261646765266c6f676f3d7265616374266c6f676f436f6c6f723d363144414642" data-canonical-src="https://img.shields.io/badge/React-20232A?style=for-the-badge&amp;logo=react&amp;logoColor=61DAFB" style="max-width: 100%;">
+  </a>
 <a href="https://www.w3.org/html/" rel="nofollow">
     <img height="35" src="https://camo.githubusercontent.com/d63d473e728e20a286d22bb2226a7bf45a2b9ac6c72c59c0e61e9730bfe4168c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f48544d4c352d4533344632363f7374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&amp;logo=html5&amp;logoColor=white" style="max-width: 100%;">
   </a>
