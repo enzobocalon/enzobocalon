@@ -2,7 +2,7 @@
 
 <div align="center">
     <h2>😉 About Me </h2>
-    <p>I'm 21 years old and a tech enthusiast.</p>
+    <p>I'm 22 years old and a tech enthusiast.</p>
     <p>Started learning about HTML and CSS back in 2012 as a hobby but never really focused on it.</p>
  </div>  
 
