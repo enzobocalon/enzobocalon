@@ -10,7 +10,7 @@
 <h2 align="left">Some personal stuffs</h2>
 <ul>
 <li> 📚 Currently studying HTML, CSS, JS and React;</li>
-<li> 🖥 Undergraduating on Computational Engineering; </li> 
+<li> 🖥 Undergraduating on Computer Engineering; </li> 
 <li> 🇧🇷 Born and living on Brazil;</li>
 </ul>
  
