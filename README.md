@@ -3,14 +3,13 @@
 <div align="center">
     <h2>😉 About Me </h2>
     <p>I'm 23 years old and a tech enthusiast.</p>
-    <p>Started learning about HTML and CSS back in 2012 as a hobby but never really focused on it.</p>
  </div>  
 
 <div>
 <h2 align="left">Some personal stuffs</h2>
 <ul>
 <li> 📚 Currently studying HTML, CSS, JS and React;</li>
-<li> 🖥 Undergraduating on Computer Engineering; </li> 
+<li> 🖥 Computer Engineering; </li> 
 <li> 🇧🇷 Born and living on Brazil;</li>
 </ul>
  
