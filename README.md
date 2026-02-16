@@ -2,22 +2,22 @@
 
 <div align="center">
     <h2>😉 About Me </h2>
-    <p>I'm 23 years old and a tech enthusiast.</p>
+    <p>I'm 24 years old and a tech enthusiast.</p>
  </div>  
 
 <div>
-<h2 align="left">Some personal stuffs</h2>
+<h2 align="left">Some personal stuff</h2>
 <ul>
-<li> 📚 Currently studying HTML, CSS, JS and React;</li>
-<li> 🖥 Computer Engineering; </li> 
-<li> 🇧🇷 Born and living on Brazil;</li>
+<li> 📚 I enjoy working with web technologies and creating Minecraft mods;</li>
+<li> 🖥 Graduated in Computer Engineering from Unifev in 2026; </li> 
+<li> 🇧🇷 Born and living in Brazil;</li>
 </ul>
  
 
 
 <div align="center">
 <h2>🌐 Social Medias</h2>
-<a href="https://www.linkedin.com/in/enzo-bocalon-70b600216/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/enzobocalon/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
 
 
@@ -27,8 +27,8 @@
   <img
     height="180em"
     alt="Enzo's github stats"
-    src="https://github-readme-stats.vercel.app/api?username=enzobocalon&count_private=true&theme=dark&hide=issues,contribs"
+    src="./profile/stats.svg"
   />
-<img height="180em" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enzobocalon&layout=compact&langs_count=8&theme=dark"/>
+<img height="180em" alt="Top Langs" src="./profile/top-langs.svg"/>
 </p>
 
